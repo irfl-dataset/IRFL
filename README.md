@@ -1,6 +1,6 @@
 # IRFL: Image Recognition of Figurative Language 
 
-Repository for the paper "IRFL: Image Recognition of Figurative Language: https://arxiv.org/abs/2303.15445. 
+Repository for the paper "IRFL: Image Recognition of Figurative Language: https://arxiv.org/abs/2303.15445. <br>
 Project website: https://irfl-dataset.github.io/.   
 Huggingface dataset card: https://huggingface.co/datasets/lampent/IRFL   
 Notebook for model evaluation: https://colab.research.google.com/drive/1RfcUhBTHvREx5X7TMY5UAgMYX8NMKy7u?usp=sharing
