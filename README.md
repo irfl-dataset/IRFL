@@ -2,9 +2,11 @@
 
 Repository for the paper "IRFL: Image Recognition of Figurative Language: https://arxiv.org/abs/2303.15445. 
 Project website: https://irfl-dataset.github.io/.   
-Huggingface integration + dataset card coming soon.   
+Huggingface dataset card: https://huggingface.co/datasets/lampent/IRFL   
+Notebook for model evaluation: https://colab.research.google.com/drive/1RfcUhBTHvREx5X7TMY5UAgMYX8NMKy7u?usp=sharing
+
 Pipeline folder contains all the code for the idioms pipeline. <br>
-Assets folder contain both the tasks (Understanding and Preference) and the datasets (idioms, metaphors and similes).
+For the datasets and task please refer to the <a href="https://huggingface.co/datasets/lampent/IRFL"> Huggingface dataset card </a>.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/1qS8gRT/understanding-task.jpg" alt="understanding-task" border="0" width="400"></a>
 
