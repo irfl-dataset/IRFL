@@ -1,6 +1,6 @@
 # IRFL: Image Recognition of Figurative Language 
 
-* Repository for the paper <a href = "https://arxiv.org/abs/2303.15445">IRFL: Image Recognition of Figurative Language </a> 
+* Repository for <a href = "https://arxiv.org/abs/2303.15445">IRFL: Image Recognition of Figurative Language </a> 
 * <a href = "https://irfl-dataset.github.io/"> Project website </a>   
 * <a href = "https://huggingface.co/datasets/lampent/IRFL"> Huggingface dataset card </a>  
 * <a href="https://colab.research.google.com/drive/1RfcUhBTHvREx5X7TMY5UAgMYX8NMKy7u?usp=sharing"> Notebook for model evaluation </a>
